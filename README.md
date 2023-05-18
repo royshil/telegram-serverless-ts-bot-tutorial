@@ -1,8 +1,14 @@
 # Telegram Typescript Serverless Bot Tutorial
+<div align="center">
+
+[![GitHub](https://img.shields.io/github/license/royshil/telegram-serverless-ts-bot-tutorial)](https://img.shields.io/github/license/royshil/telegram-serverless-ts-bot-tutorial)
+
+[**Blogpost**](https://www.morethantechnical.com/2023/05/18/aws-lambda-nodejs-telegram-bot-with-typescript-serverless-and-dynamodb/)
+| [**YouTube**](http://www.youtube.com/watch?v=MtWUKFcljKg)
+
+</div>
 
 In this tutorial, we will explore how to build a simple Telegram bot using serverless with TypeScript and AWS Lambda. We’ll leverage the power of AWS services such as API Gateway and DynamoDB to create a highly scalable and efficient bot. While there are various tutorials available online, this guide aims to provide a more comprehensive and detailed approach.
-
-Blog post: https://www.morethantechnical.com/2023/05/18/aws-lambda-nodejs-telegram-bot-with-typescript-serverless-and-dynamodb/
 
 Run npm
 ```sh
